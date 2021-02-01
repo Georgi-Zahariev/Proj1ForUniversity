@@ -1,0 +1,80 @@
+26
+Adriana Koleva
+17.08.2019
+399 1959,85
+Adriana Gaydova
+04.04.2019
+774 469,84
+Aleks Petrov
+22.12.2020
+1036 191,83
+Aleksandra Gogosheva
+29.10.2020
+298 1976,22
+Valentin Mihaylov
+23.10.2020
+995 527,60
+Georgi Nikolov
+20.03.2020
+992 494,30
+Georgi Zahariev
+21.01.2021
+692 1020,27
+Georgi Angelov
+20.11.2020
+843 1359,75
+Daniel Ivanov
+28.07.2019
+44 1172,36
+Daniel Peev
+26.07.2020
+922 1941,16
+Dimitar Semov
+07.05.2020
+39 2049,68
+Dominik Saltakov
+23.11.2020
+374 639,31
+Doncho Ivanov
+29.12.2019
+865 108,04
+Zhulieta Ilieva
+28.04.2019
+627 1305,89
+Zhulieta Yaneva
+17.07.2019
+819 614,31
+Kamelia Dimitrova
+16.04.2020
+1027 482,10
+Martin Kolev
+16.03.2020
+724 810,99
+Maya Angelova
+31.05.2019
+355 822,82
+Mihail Stoyanov
+04.01.2020
+233 1093,09
+Mihail Tsvetkov
+12.08.2019
+779 1560,43
+Nikolay Chervenkov
+08.05.2019
+395 960,36
+Plamen Ganev
+27.05.2019
+142 2034,85
+Plamen Ovcharov
+01.05.2020
+556 941,30
+Rositsa Kocherenko
+14.02.2019
+66 1145,81
+Stoyanka Mehandzhieva
+18.06.2020
+829 877,12
+Tomislav Koychev
+11.10.2020
+507 966,03
+4
